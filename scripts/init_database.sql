@@ -16,12 +16,6 @@
         - Silver   : Cleaned and transformed data layer
         - Gold     : Business-ready analytical layer
 
- Notes:
- ------
- - This script is intended for development and testing environments.
- - The database will be completely deleted and recreated.
- - All existing data inside the target database will be permanently removed.
-
  Warning:
  --------
  EXECUTING THIS SCRIPT WILL:
