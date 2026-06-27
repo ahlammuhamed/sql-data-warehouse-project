@@ -2,8 +2,7 @@
 -- Create Bronze Layer Tables
 -- Database  : DataWarehouse
 -- Schema    : Bronze
--- Author    : [Your Name]
--- Created   : [Date]
+-- Created   : [27 june 2026]
 -- Description: This script creates the raw/staging tables in the
 --              Bronze layer for both CRM and ERP source systems.
 --              Existing tables are dropped and recreated.
