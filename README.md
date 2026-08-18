@@ -10,8 +10,7 @@ The project was built to strengthen my practical skills in data engineering, ETL
 # 🏗️ Data Architecture
 
 This project follows the **Medallion Architecture** approach using Bronze, Silver, and Gold layers.
-(arch diagram will be here)
-
+![Architecture Diagram](docs/data_architecture.png)
 ### 🥉 Bronze Layer
 
 Stores raw data directly from source systems without modifications.
